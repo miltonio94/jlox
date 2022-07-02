@@ -1,0 +1,5 @@
+#+author: Milton
+#+description: readme for github page
+
+* JLOX
+My attempt at implementing the jlox language, by following the book "Crafting Interpreters" by Robert Nystrom
